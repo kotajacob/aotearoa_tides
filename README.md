@@ -1,8 +1,17 @@
 # Aotearoa Tides
 
-An app that displays tidal data using [the official LINZ tide predictions](https://www.linz.govt.nz/sea/tides/tide-predictions).
+An app that displays tidal data using [the official LINZ tide
+predictions](https://www.linz.govt.nz/sea/tides/tide-predictions). Currently,
+the app is pending approval, but will soon be live on the
+[play store.](https://play.google.com/store/apps/details?id=nz.kota.aotearoa_tides)
+Manual apk downloads are also attached to each release.
 
 <img src="https://paste.nilsu.org/e8438b6e252e3b7fc4e7bf8cd7e89f7d3a5fee24.png" width="350">
+
+# Privacy
+
+Uploading to the Google Play store requires a privacy policy. You can view the
+current version in PRIVACY.md in this repository.
 
 # Build
 
