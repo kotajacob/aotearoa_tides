@@ -2,7 +2,7 @@
 
 An app that displays tidal data using [the official LINZ tide predictions](https://www.linz.govt.nz/sea/tides/tide-predictions).
 
-![screenshot 1](screenshot_01.png)
+<img src="https://paste.nilsu.org/e8438b6e252e3b7fc4e7bf8cd7e89f7d3a5fee24.png" width="350">
 
 # Build
 
